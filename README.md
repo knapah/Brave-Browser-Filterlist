@@ -54,7 +54,7 @@
 - [Energized extension/Social](https://block.energized.pro/extensions/social/formats/hosts.txt) - Block social apps and sites.
 - [Energized extension/Regional](https://block.energized.pro/extensions/regional/formats/domains.txt) - Regional annoyance blocking.
 - [Energized extension/Xtreme](https://block.energized.pro/extensions/xtreme/formats/hosts.txt) - Privacy protection at its best.
-- [EU US most prevalent ads & trackers ABP format for uBlockOrigin and Adguard.](https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks)
+- [EU US most prevalent ads & trackers ABP format for uBlockOrigin and Adguard.](https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/EU_US%2Bmost_used_ad_and_tracking_networks.txt)
 - [facebook annoyances blocker](https://hg.adblockplus.org/facebookfilters/raw-file/default/fb_annoyances_full.txt)
 - [Fanboy's Notifications Blocking List](https://easylist-downloads.adblockplus.org/fanboy-notifications.txt)
 - [First-party trackers host list](https://hostfiles.frogeye.fr/firstparty-only-trackers-hosts.txt)
@@ -94,10 +94,10 @@
 - [X Files: HWS Harmful WebSites](https://raw.githubusercontent.com/gioxx/xfiles/master/siteblock.txt)
 - [X Files: NoFacebookAds](https://raw.githubusercontent.com/gioxx/xfiles/master/facebook.txt)
 - [X Files: UPD uBlock Phishing Domains](https://raw.githubusercontent.com/gioxx/xfiles/master/upd.txt)
-- [yokoffing Adult Annoyance List](https://raw.githubusercontent.com/yokoffing/filterlists/main/AdultAnnoyanceList.txt)
-- [yokoffing Annoyance List](https://raw.githubusercontent.com/yokoffing/filterlists/main/AnnoyanceList.txt)
-- [yokoffing Clean Reading Experience](https://raw.githubusercontent.com/yokoffing/filterlists/main/CleanReadingExperience.txt)
-- [yokoffing Privacy Essentials](https://raw.githubusercontent.com/yokoffing/filterlists/main/PrivacyEssentials.txt)
+- [yokoffing Adult Annoyance List](https://raw.githubusercontent.com/yokoffing/filterlists/main/adult_annoyance_list.txt)
+- [yokoffing Annoyance List](https://raw.githubusercontent.com/yokoffing/filterlists/main/annoyance_list.txt)
+- [yokoffing Clean Reading Experience](https://raw.githubusercontent.com/yokoffing/filterlists/main/clean_reading_experience.txt)
+- [yokoffing Privacy Essentials](https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt)
 
 <p align="center"><strong>Source:</strong> <br>
 <a href="https://filterlists.com/">FilterLists</a> <br>
