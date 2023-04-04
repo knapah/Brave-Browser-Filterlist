@@ -1,8 +1,8 @@
 - [10ZiN Host Database (Full)](https://tgc.cloud/downloads/hosts.txt)
-- [1Hosts (mini)](https://o0.pages.dev/mini/adblock.txt) - `mini` - Level 1: unblocks a number of ads & trackers for in-app rewards, anti-AdBlock, etc.
-- [1Hosts (Lite)](https://o0.pages.dev/Lite/adblock.txt) - `Lite` - Level 2: set & forget, favours user experience (UX) over adblocking, balanced, recommended.
-- [1Hosts (Pro)](https://o0.pages.dev/Pro/adblock.txt) - `Pro` - Level 3: prioritizes safety & privacy (adblocking) over UX e.g blocks graph.facebook.com.
-- [1Hosts (Xtra)](https://o0.pages.dev/Xtra/adblock.txt) - `Xtra` - Level 4: extremly aggressive & restrictive. Do not use unless you know what you're doing!
+- [1Hosts (mini)](https://o0.pages.dev/mini/adblock.txt) - `Level 1`: unblocks a number of ads & trackers for in-app rewards, anti-AdBlock, etc.
+- [1Hosts (Lite)](https://o0.pages.dev/Lite/adblock.txt) - `Level 2`: set & forget, favours user experience (UX) over adblocking, balanced, recommended.
+- [1Hosts (Pro)](https://o0.pages.dev/Pro/adblock.txt) - `Level 3`: prioritizes safety & privacy (adblocking) over UX e.g blocks graph.facebook.com.
+- [1Hosts (Xtra)](https://o0.pages.dev/Xtra/adblock.txt) - `Level 4`: extremly aggressive & restrictive. Do not use unless you know what you're doing!
 - [ABPindo (minified)](https://easylist-downloads.adblockplus.org/abpindo-minified.txt)
 - [ABPindo_noannoyance](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_noannoyance.txt)
 - [ABPindo_noelemhide](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_noelemhide.txt)
