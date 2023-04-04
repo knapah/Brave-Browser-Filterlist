@@ -1,4 +1,12 @@
-- [10ZiN Host Database (Full)](https://tgc.cloud/downloads/hosts.txt)
+# Brave Browser Filter list
+
+A curated list of adblock filters for various purposes. This list includes filters for ad and tracker blocking, anti-anti-adblock, anti-Facebook, anti-paywall, and more.
+
+ ***
+
+# Filters
+
+- [10ZiN Host Database (Full)](https://tgc.cloud/downloads/hosts.txt) - Complete host database (alive and dead)
 - [1Hosts (mini)](https://o0.pages.dev/mini/adblock.txt) - `Level 1`: unblocks a number of ads & trackers for in-app rewards, anti-AdBlock, etc.
 - [1Hosts (Lite)](https://o0.pages.dev/Lite/adblock.txt) - `Level 2`: set & forget, favours user experience (UX) over adblocking, balanced, recommended.
 - [1Hosts (Pro)](https://o0.pages.dev/Pro/adblock.txt) - `Level 3`: prioritizes safety & privacy (adblocking) over UX e.g blocks graph.facebook.com.
