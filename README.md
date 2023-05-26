@@ -36,6 +36,7 @@ A curated list of adblock filters for various purposes. This list includes filte
 - [Anti popads.net](https://raw.githubusercontent.com/Yhonay/antipopads/master/popads.txt)
 - [Anti-Facebook List](https://www.fanboy.co.nz/fanboy-antifacebook.txt)
 - [Anti-paywall filters](https://raw.githubusercontent.com/llacb47/miscfilters/master/antipaywall.txt)
+- [antipopads:re](https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/filter.txt)
 - [Anudeep's Blacklist](https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt)
 - [Anudeep's Blacklist](https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt)
 - [Anudeep's Facebook Blacklist](https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt)
